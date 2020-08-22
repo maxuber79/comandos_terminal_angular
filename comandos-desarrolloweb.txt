@@ -1,0 +1,54 @@
+# Version de NodeJS
+node -v
+
+# Version de NPM
+npm -v
+
+# Versión de TypeScript
+tsc --version
+
+# Version Angular CLI
+ng version
+
+
+### Comando para Angular:
+
+# Crear un nuevo modulo ne Angular
+
+	ng g c template_parts/header
+	ng g s services/productos --skip-tests 
+
+	Nota: "--skip-tests" /  Crear unmodulo sin el archivo spec.ts
+	
+# Abrir aplicación:
+	ng serve -o / ng serve --port 4401  
+
+# Crear servicios:
+	ng g s services/infoPaginas
+
+#Aplicacion pruebas en producción:
+ng build --prod
+
+
+#Instalar bootstrap + dependencias:
+$ npm i bootstrap jquery @popperjs/core
+
+TYPESCRIPT:
+
+tsc --init /crear archivo de configuracion de typescript
+tsc -w / o --watch modo de observador
+
+
+6aet001 orden de nio pago cheques
+Número 1821704 poliza faltaria numero de requerimiento: 26840962 5 dia hábiles
+
+Tengo preexistencia.
+cuante es el monto qwue cubre
+tiempo de aviso por el siniestro
+activa yo o la otra persona.
+puede sumar con el seguro complementario.-
+
+creen ustedes que para programar en cualquier lenguaje es necesario tener un titulo de universidad? (Ingeniero, Analista, etc) y piensan si la pandemia origino un boom en el uso de las tecnologías
+
+
+
