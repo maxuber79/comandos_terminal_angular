@@ -8,10 +8,17 @@ npm -v
 tsc --version
 
 # Version Angular CLI
-ng version
+ng --version or ng -v
 
 
-### Comando para Angular:
+### Comandos para Angular:
+
+# Instalar Agular CLI
+	npm install -g @angular/cli
+
+# Crear un nuevo proyecto en Angular:
+
+	ng new [nombre_del_proyecto]
 
 # Crear un nuevo modulo ne Angular
 
